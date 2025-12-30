@@ -2,12 +2,12 @@ Privacy Policy
 
 Effective Date: 30 December 2025
 
-This Privacy Policy explains how ToDoer (“we”, “our”, or “us”) collects, uses, and protects information when you use our Todo list mobile application available on Google Play.
+This Privacy Policy describes how Wallpie (“we”, “our”, or “us”) collects, uses, and protects information when you use the Wallpie wallpaper mobile application available on Google Play.
 
 1. Information We Collect
 a. Personal Information
 
-ToDoer does not require user accounts or login and does not collect personally identifiable information such as name, email address, phone number, or precise location.
+Wallpie does not require user registration or login and does not collect personally identifiable information such as name, email address, phone number, or precise location.
 
 b. Non-Personal Information
 
@@ -19,51 +19,44 @@ Operating system version
 
 App usage data
 
-Crash reports and performance diagnostics
+Crash logs and performance diagnostics
 
 Advertising identifiers (such as Google Advertising ID)
 
-This information is collected to improve app performance, stability, and to support advertising.
+This information is collected to improve app performance and to support advertising.
 
 2. Advertising
 
-ToDoer displays advertisements using third-party advertising services such as Google AdMob.
+Wallpie displays advertisements using third-party advertising services such as Google AdMob.
 
-Advertising partners may use:
+Advertising partners may collect and use:
 
 Advertising identifiers
 
 Cookies or similar technologies
 
-These are used to:
-
-Display relevant or non-personalized ads
-
-Measure ad performance
-
-Prevent fraud
-
-Users can opt out of personalized advertising through their device settings.
+This data is used to display ads, measure ad performance, and prevent fraud.
+Users can manage or opt out of personalized ads through their device settings.
 
 3. How We Use Information
 
 The information collected is used to:
 
-Provide core Todo list functionality
+Provide and maintain app functionality
 
-Improve app performance and reliability
+Improve user experience and performance
 
-Analyze usage trends
+Analyze app usage trends
 
 Display and manage advertisements
 
-Detect and fix crashes or technical issues
+Detect, prevent, and resolve technical issues
 
 We do not use collected data for direct marketing or user profiling.
 
 4. Third-Party Services
 
-ToDoer may use the following third-party services:
+Wallpie may use the following third-party services:
 
 Google Play Services
 
@@ -73,42 +66,42 @@ Google Analytics for Firebase
 
 Firebase Crashlytics
 
-These services collect information according to their own privacy policies. We recommend reviewing Google’s Privacy Policy for more details.
+These services collect information in accordance with their own privacy policies. We recommend reviewing Google’s Privacy Policy for further details.
 
 5. Data Sharing
 
 We do not sell or rent user data.
 
-Data may be shared only:
+Information may be shared only:
 
-With trusted service providers necessary for app operation (ads, analytics)
+With trusted third-party services required for app functionality (ads and analytics)
 
-When required by law or legal process
+To comply with legal obligations
 
 To protect the rights, safety, or security of users or the app
 
 6. Data Security
 
-We implement reasonable technical and organizational safeguards to protect collected information. However, no electronic transmission or storage method is completely secure.
+We take reasonable measures to protect collected information using standard security practices. However, no electronic transmission or storage method is completely secure.
 
 7. Data Retention and Deletion
 
 Non-personal data is retained only as long as necessary for operational and analytical purposes.
 
-As ToDoer does not store personal user accounts, there is no persistent personal data tied to individual users. Users may still contact us for data-related questions.
+As Wallpie does not maintain user accounts or store personal data, there is no persistent user-specific data to delete. Users may still contact us with data-related inquiries.
 
 8. Children’s Privacy
 
-ToDoer is not intended for children under the age of 13.
+Wallpie is not intended for children under the age of 13.
 
-We do not knowingly collect personal data from children. If such data is identified, it will be removed promptly.
+We do not knowingly collect personal information from children. If such data is identified, it will be deleted promptly.
 
 9. Changes to This Privacy Policy
 
-We may update this Privacy Policy periodically. Any changes will be posted on this page, and the effective date will be updated.
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the effective date will be updated accordingly.
 
 10. Contact Us
 
-If you have questions or concerns regarding this Privacy Policy, please contact us at:
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 
-Email: ytberno1@gmail.com
+Email: ss2547240@gmail.com
